@@ -1,0 +1,18 @@
+theia@theia-jannekiiski9:/home/project/xrwvm-fullstack_developer_capstone/server$ python3 manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 02, 2026 - 15:45:04
+Django version 5.2.18, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+[02/Nov/2026 15:45:33] "GET / HTTP/1.1" 200 2679
+[02/Nov/2026 15:45:34] "GET /static/style.css HTTP/1.1" 200 1918
+[02/Nov/2026 15:45:34] "GET /static/car_dealership.jpg HTTP/1.1" 200 263696
+[02/Nov/2026 15:45:34] "GET /static/bootstrap.min.css HTTP/1.1" 200 155800
+Not Found: /favicon.ico
+[02/Nov/2026 15:45:35] "GET /favicon.ico HTTP/1.1" 404 2678
