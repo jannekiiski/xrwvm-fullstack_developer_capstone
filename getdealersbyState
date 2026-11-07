@@ -1,0 +1,5 @@
+theia@theiadocker-jannekiiski9:/home/project/xrwvm-fullstack_developer_capst
+one/server/database$ curl -X GET "https://jannekiiski9-3030.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/fetchDealers/Kansas" -o getdealersbyState
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--    100   222  100   222    0     0   1022      0 --:--:-- --:--:-- --:--:--  10100   222  100   222    0     0   1021      0 --:--:-- --:--:-- --:--:--  1018
