@@ -1,0 +1,5 @@
+theia@theiadocker-jannekiiski9:/home/project/xrwvm-fullstack_developer_capst
+one/server/database$ curl -X GET "https://jannekiiski9-3030.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/fetchReviews/dealer/1" -o getdealerreviews
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--    100     2  100     2    0     0     12      0 --:--:-- --:--:-- --:--:--    12
