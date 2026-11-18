@@ -1,0 +1,2 @@
+theia@theiadocker-jannekiiski9:/home/project/xrwvm-fullstack_developer_capstone/server/djangoapp/microservices$ curl curl -X GET "https://sentianalyzer.2hbh5hue8juw.us-south.codeengine.appdomain.cloud/analyze/Fantastic%20services"
+{"sentiment": "positive"}
